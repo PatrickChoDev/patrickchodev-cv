@@ -18,9 +18,8 @@
     location: "Bangkok, TH",
     dates: dates-helper(start-date: "Apr 2022", end-date: "Oct 2023"),
   )
-  - Built an internship candidate filtering application using Node.js, React, and MongoDB.
-  - Scraped data from RFID cards via reverse engineering.
-  - Contributed to development of internal microservice systems.
+  - Reduce *operational costs by 60%* through creating an in-house platform for recruiting interns process automation.
+  - Develop a microservice-based internal tool using Go and React, improving team productivity by *40%*.
 ]
 
 #let agoda = [
@@ -30,11 +29,15 @@
     location: "Bangkok, TH",
     dates: dates-helper(start-date: "May 2025", end-date: "Dec 2025"),
   )
-  - Worked on the accommodation supply team to improve property onboarding and management systems.
+ 	-	Led a cross-functional scrum team to design, implement, and launch the *YCS Search optimization* feature, improving platform efficiency and booking performance.
+	-	Achieved *+552 iBPD and –0.23% Global Handling Time*, contributing to an estimated *$gt$\$200K* annual revenue gain and reducing agent workload.
+	-	Owned feature rollout, post-launch monitoring, and issue triage, ensuring stable performance and zero major regressions.
+	-	Applied data-driven decision-making (A/B experimentation with p < 0.1) to validate performance impact and guide iteration cycles.
 ]
 
 #let entries = [
-  #bjak
+  #agoda
+  // #bjak
   #arv
 ]
 

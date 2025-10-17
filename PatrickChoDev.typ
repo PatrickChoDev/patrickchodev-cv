@@ -11,7 +11,7 @@
   github: "github.com/PatrickChoDev",
   personal-site: "patrickchodev.com",
   linkedin: "linkedin.com/in/patrickchodev",
-
+  font-size: 10pt
 )
 
 #import "sections/works.typ"
@@ -24,7 +24,7 @@
 
 #works.section
 #education.section
-#projects.projects_section
+// #projects.projects_section
 #opensource.section
 #teaching.section
 #awards.section

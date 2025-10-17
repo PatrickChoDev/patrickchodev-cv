@@ -6,7 +6,7 @@
     location: "Bangkok, TH",
     dates: dates-helper(start-date: "Aug 2022", end-date: "Present"),
     degree: "B.E. in Civil Engineering",
-    gpa: "GPAX: 3.04",
+    gpa: "GPAX: 3.11/4.00",
   )
 ]
 
@@ -16,7 +16,7 @@
     location: "Bangkok, TH",
     dates: dates-helper(start-date: "2015", end-date: "2021"),
     degree: "Computer–Mathematics Program",
-    gpa: "GPAX: 3.83",
+    gpa: "GPAX: 3.83/4.00",
   )
 ]
 

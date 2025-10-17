@@ -1,28 +1,28 @@
 #import "@preview/basic-resume:0.2.9": *
 
 #let languages = [
-  - Languages: C, C++, Java, Go, Rust, Python, JavaScript, TypeScript
+  - C, C++, C\#, Java, Go, Rust, Python, JavaScript, TypeScript
 ]
 
 #let tools = [
-  - Tools: VS Code, Vim
+  - Gradle, CMake, Bazel, Git, gRPC, REST
 ]
 
 #let devops = [
-  - DevOps: Kubernetes, Docker, Terraform, GCP, Make, Bazel
+  - Kubernetes, Docker, Terraform, GCP, AWS, Linux
 ]
 
 //// Add more skills groups below and include them in `entries` if needed.
 //// Example:
-//// #let ai_ml = [
-////   - AI/ML: PyTorch, NumPy, Pandas, Scikit-learn
-//// ]
+#let ai_ml = [
+  - PyTorch, NumPy, Pandas, Scikit-learn, Spark, Dagster
+]
 
 #let entries = [
   #languages
   #tools
   #devops
-  // ai_ml,
+  #ai_ml
 ]
 
 #let section = [

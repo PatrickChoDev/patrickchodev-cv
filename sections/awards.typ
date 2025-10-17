@@ -34,7 +34,7 @@
 #let entries = [
   #spaceport_2024
   #mic7_2021
-  #oss_contrib_2021
+  // #oss_contrib_2021
 ]
 
 #let section = [

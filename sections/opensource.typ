@@ -6,8 +6,8 @@
     dates: "2021",
     url: "https://deno.com",
   )
-  - Contributions to a secure runtime for JavaScript and TypeScript.
-  - Areas: tooling, ecosystem, and developer experience.
+  - Contributions to a *most of DNS resolver module* and various documentation improvements.
+  - Areas: standard library modules and documentation.
   - Tech: TypeScript, Rust.
 ]
 
@@ -17,8 +17,8 @@
     dates: "2021",
     url: "https://starship.rs",
   )
-  - Contributions to a fast, customizable shell prompt.
-  - Areas: prompt modules, performance, and configuration improvements.
+  - Contributions to a SSH hostname prompt module.
+  - Areas: prompt modules and documentation.
   - Tech: Rust.
 ]
 
